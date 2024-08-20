@@ -10,7 +10,7 @@ dls = ImageDataLoaders.from_name_func(
 learn = vision_learner(dls, resnet34, metrics=error_rate)
 learn.fine_tune(1)
 
-uploader = SimpleNamespace(data = ['cat_example.jpg'])
+uploader = SimpleNamespace(data = ['images/chapter1_cat_example.jpg'])
 
 img = PILImage.create(uploader.data[0])
 is_cat,_,probs = learn.predict(img)
