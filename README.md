@@ -6,9 +6,9 @@ A comprehensive collection of practical AI applications and implementations usin
 
 This repository contains a diverse set of practical AI projects that demonstrate the application of AI in various domains. The projects cover a wide range of techniques including:
 
+- Large language model (LLM) training fine-tuning
 - Retrieval Augmented Generation (RAG)
 - Multi-agent AI systems
-- Language model fine-tuning
 - Computer vision applications
 - Natural language processing
 - Sentiment analysis
@@ -16,6 +16,12 @@ This repository contains a diverse set of practical AI projects that demonstrate
 - Clustering and dimensionality reduction
 
 ## Project Structure
+
+### Language Model Training and Fine-tuning
+
+- `training-large-language-model-for-esperanto.ipynb`: Training a RoBERTa-like large language model (LLM) from scratch for Esperanto using custom tokenization and masked language modeling.
+- `language_model_finetuning_qlora_llama2.ipynb`: Fine-tuning Llama 2 using QLoRA technique.
+- `finetuning_img_classifier_visual_transformer_lora.ipynb`: Fine-tuning a visual transformer model using LoRA.
 
 ### Retrieval Augmented Generation (RAG)
 
@@ -34,11 +40,6 @@ Located in the `multi-agent_coding_stock-analysis_customer-onboarding_chess_writ
 - `Multi-Agent_Sequential_Chats_and_Customer_Onboarding_AutoGen.ipynb`: Customer onboarding flows using multiple agents.
 - `Multi-Agent_Tool_Use_and_Conversational_Chess_AutoGen.ipynb`: Tool use and chess game analysis by AI agents.
 - `Multi-Agent_Tool_Use_Fake_Nvidia_Stocks.py`: Demonstration of tool use for stock analysis.
-
-### Language Model Fine-tuning
-
-- `language_model_finetuning_qlora_llama2.ipynb`: Fine-tuning Llama 2 using QLoRA technique.
-- `finetuning_img_classifier_visual_transformer_lora.ipynb`: Fine-tuning a visual transformer model using LoRA.
 
 ### Computer Vision
 
