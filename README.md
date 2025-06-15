@@ -1,6 +1,6 @@
 # Practical AI Projects
 
-A comprehensive collection of practical AI applications and implementations using various machine learning, deep learning, and natural language processing techniques.
+Collection of practical AI applications and implementations using various machine learning, deep learning, and natural language processing techniques.
 
 ## Overview
 
