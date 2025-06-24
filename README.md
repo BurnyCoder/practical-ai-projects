@@ -50,6 +50,8 @@ Located in the `multi-agent_coding_stock-analysis_customer-onboarding_chess_writ
 - `noise_removal_autoencoder.py`: Noise removal using autoencoders.
 - `image_question_answering_openai.py`: Visual question answering using OpenAI's GPT-4o.
 - `text-to-image_clipdrop.py`: Text-to-image generation using ClipDrop.
+- `resnet_transfer_learning_pneumonia.py`: Transfer learning with ResNet for pneumonia detection.
+
 
 ### Natural Language Processing
 
