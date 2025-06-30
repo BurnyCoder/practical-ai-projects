@@ -52,7 +52,6 @@ Located in the `multi-agent_coding_stock-analysis_customer-onboarding_chess_writ
 - `text-to-image_clipdrop.py`: Text-to-image generation using ClipDrop.
 - `resnet_transfer_learning_pneumonia.py`: Transfer learning with ResNet for pneumonia detection.
 
-
 ### Natural Language Processing
 
 - `NLP_classification_search_text-edit_sentiment_analysis_Bert_BoW_SVM_embeddings_skip-gram_regex_POS.ipynb`: Comprehensive NLP techniques.
@@ -61,13 +60,15 @@ Located in the `multi-agent_coding_stock-analysis_customer-onboarding_chess_writ
 - `question_answering_openai.py`: Question answering using OpenAI models.
 - `text-to-speech_elevenlabs.py`: Text-to-speech conversion using ElevenLabs.
 
-### Machine Learning
+### Other
 
 - `clustering_kmeans.ipynb`: K-means clustering implementation.
 - `dimensionality_reduction_pca.ipynb`: Principal Component Analysis (PCA) for dimensionality reduction.
 - `tabular_prediction_nn.py`: Neural network for tabular data prediction.
 - `digit-classifier_nn.py`: Neural network for digit classification.
 - `recommender_system_movies_nn.py`: Movie recommendation system using neural networks.
+- `2d_flow_matching_checkerboards.ipynb`: Implementation of 2D flow matching for generating checkerboard patterns.
+
 
 ## Getting Started
 
